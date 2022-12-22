@@ -1,4 +1,4 @@
-#Shell Script to perform various Arithmetic operations
+#Shell Script to perform various  Arithmetic operations
 echo "enter a and b"
 read a
 read b
